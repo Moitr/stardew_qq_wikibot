@@ -1,0 +1,10 @@
+websockets>=12.0
+openai>=1.0.0
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+playwright>=1.40.0
+
+# 安装 playwright 浏览器驱动（安装完依赖后运行）:
+# playwright install chromium
+
